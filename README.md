@@ -1,1 +1,1 @@
-# OnchainVampireSurvivors-theta-demo-
+# OnchainVampireSurvivors-theta-demo
