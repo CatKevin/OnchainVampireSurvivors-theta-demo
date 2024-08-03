@@ -1,1 +1,0 @@
-# OnchainVampireSurvivors-theta-demo
